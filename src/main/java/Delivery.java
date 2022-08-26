@@ -11,7 +11,7 @@ public class Delivery {
         this.location = location;
         this.sellerName = sellerName;
 	this.buyerName = buyerName;
-
+	this.buyerName = buyerName;
     }
     public String getDeliveryName() {
         return deliverName;
