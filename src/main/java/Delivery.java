@@ -1,18 +1,18 @@
 public class Delivery {
     
     protected String deliveryName;
-    protected String description;
+    protected String DeliveryStatus;
     protected String location;
     protected String sellerName;
     protected String buyerName;
-    public Delivery(String deliveryName, String description, String location, String sellerName, String buyerName) {
+    public Delivery(String deliveryName, String DeliveryStatus, String location, String sellerName, String buyerName) {
         super();
         this.deliveryName = deliveryName;
-        this.description = description;
+        this.DeliveryStatus = DeliveryStatus;
         this.location = location;
         this.sellerName = sellerName;
         this.buyerName = buyerName;
-
+        this.buyerName = buyerName;
     }
     public String getDeliveryName() {
         return deliveryName;
@@ -20,11 +20,11 @@ public class Delivery {
     public void setDeliveryName(String deliveryName) {
         this.deliveryName = deliveryName;
     }
-    public String getDescription() {
-        return description;
+    public String getDeliveryStatus() {
+        return DeliveryStatus;
     }
-    public void setDescription(String description) {
-        this.description = description;
+    public void setDescription(String DeliveryStatus) {
+        this.DeliveryStatus = DeliveryStatus;
     }
     public String getLocation() {
         return location;
