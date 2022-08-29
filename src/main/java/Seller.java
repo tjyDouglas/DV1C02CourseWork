@@ -1,42 +1,48 @@
 package model;
 
 public class Seller {
-	protected String sellerName;
-    protected String productDescription;
-    protected String location;
-    protected String buyerName;
+	protected String seller_name;
+    protected String seller_mobile_no;
+    protected String seller_email;
+    protected String seller_address;
     
-    public Seller(String sellerName, String productDescription, String location,
-			String buyerName) {
+    public Seller(String seller_name, String seller_mobile_no, String seller_email, String seller_address) {
 		super();
-		this.sellerName = sellerName;
-		this.productDescription = productDescription;
-		this.location = location;
-		this.buyerName = buyerName;
+		this.sellerName = seller_name;
+		this.seller_mobile_no = seller_mobile_no;
+		this.seller_email = seller_email;
+		this.seller_address = seller_address;
 	}
     
-	public String getSellerName() {
-		return sellerName;
+	public String getseller_name() {
+		return seller_name;
 	}
-	public void setSellerName(String sellerName) {
-		this.sellerName = sellerName;
+	
+	public void setseller_name(String seller_name) {
+		this.seller_name = seller_name;
 	}
-	public String getProductDescription() {
-		return productDescription;
+	
+	public String getseller_mobile_no() {
+		return seller_mobile_no;
 	}
-	public void setProductDescription(String productDescription) {
+	
+	public void setseller_mobile_no(String seller_mobile_no) {
 		this.productDescription = productDescription;
 	}
-	public String getLocation() {
-		return location;
+	
+	public String getseller_email() {
+		return seller_email;
 	}
-	public void setLocation(String location) {
-		this.location = location;
+	
+	public void setseller_email(String seller_email) {
+		this.seller_email = seller_email;
 	}
-	public String getBuyerName() {
-		return buyerName;
+	
+	public String getseller_address() {
+		return seller_address;
 	}
-	public void setBuyerName(String buyerName) {
-		this.buyerName = buyerName;
+	
+	public void setseller_address(String seller_address) {
+		this.seller_address = seller_address;
 	}
 }
