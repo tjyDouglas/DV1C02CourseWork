@@ -1,50 +1,50 @@
 public class Delivery {
     
-    protected String deliveryName;
-    protected String DeliveryStatus;
-    protected String location;
-    protected String sellerName;
-    protected String buyerName;
-    public Delivery(String deliveryName, String DeliveryStatus, String location, String sellerName, String buyerName) {
+    protected String delivery_name;
+    protected String delivery_type;
+    protected String delivery_date;
+    protected String delivery_address;
+
+    
+    public Delivery(String delivery_name, String delivery_type, String delivery_date, String delivery_address) {
         super();
-        this.deliveryName = deliveryName;
-        this.DeliveryStatus = DeliveryStatus;
-        this.location = location;
-        this.sellerName = sellerName;
-        this.buyerName = buyerName;
-        this.buyerName = buyerName;
+        this.delivery_name = delivery_name;
+        this.delivery_type = delivery_type;
+        this.delivery_date = delivery_date;
+        this.delivery_address = delivery_address;
     }
-    public String getDeliveryName() {
-        return deliveryName;
+    
+    public String getdelivery_name() {
+        return delivery_name;
     }
-    public void setDeliveryName(String deliveryName) {
-        this.deliveryName = deliveryName;
+    
+    public void setdelivery_name(String delivery_name) {
+        this.delivery_name = delivery_name;
     }
-    public String getDeliveryStatus() {
-        return DeliveryStatus;
+    
+    public String getdelivery_type() {
+        return delivery_type;
     }
-    public void setDescription(String DeliveryStatus) {
-        this.DeliveryStatus = DeliveryStatus;
+    
+    public void setdelivery_type(String delivery_type) {
+        this.delivery_type = delivery_type;
     }
-    public String getLocation() {
-        return location;
+    
+    public String getdelivery_date() {
+        return delivery_date;
     }
-    public void setLocation(String location) {
-        this.location = location;
+    
+    public void setdelivery_date(String delivery_date) {
+        this.delivery_date = delivery_date;
     }
-    public String getSellerName() {
-        return sellerName;
+    
+    public String getdelivery_address() {
+        return delivery_address;
     }
-    public void setSellerName(String sellerName) {
-        this.sellerName = sellerName;
+    
+    public void setdelivery_address(String delivery_address) {
+        this.delivery_address = delivery_address;
     }
-   public String getBuyerName() {
-        return buyerName;
-    }
-    public void setBuyerName(String buyerName) {
-        this.buyerName = buyerName;
-    }
-
-
+   
 }
 
