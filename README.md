@@ -4,11 +4,11 @@
 
 * What is it, what does it do / Abstract
 * Project status: working/prototype
-* Nuxeo Support
+* Intelligent Service Campaigner Support
 
 See real examples:
 
-* <https://github.com/nuxeo/nuxeo/blob/master/README.md>
+* <https://github.com/intelligent-service-campaigner/intelligent-service-campaigner/blob/master/README.md>
 
 
 ## Table of contents
