@@ -31,7 +31,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
 >   * [Contributing / Reporting issues](#contributing--reporting-issues)
 >   * [License](#license)
->   * [About Nuxeo](#about-Intelligent Service Campaigner)
+>   * [About Intelligent Service Campaigner](#about-Intelligent Service Campaigner)
 
 ## Installation
 
