@@ -12,18 +12,6 @@
   <servlet>
 	<servlet-name>ProductServlet</servlet-name>
 	<servlet-class>ProductServlet</servlet-class>
-	
-	<servlet-name>CustomerServlet</servlet-name>
-	<servlet-class>CustomerServlet</servlet-class>
-	
-	<servlet-name>SellerServlet</servlet-name>
-	<servlet-class>SellerServlet</servlet-class>
-	
-	<servlet-name>PaymentServlet</servlet-name>
-	<servlet-class>PaymentServlet</servlet-class>
-	
-	<servlet-name>Deliveryervlet</servlet-name>
-	<servlet-class>DeliveryServlet</servlet-class>
   </servlet>
   <servlet-mapping>
 	<servlet-name>ProductServlet</servlet-name>
@@ -31,30 +19,5 @@
 	<url-pattern>/ProductServlet/edit</url-pattern>
 	<url-pattern>/ProductServlet/update</url-pattern>
 	<url-pattern>/ProductServlet/delete</url-pattern>
-	
-	<servlet-name>CustomerServlet</servlet-name>
-	<url-pattern>/CustomerServlet/dashboard</url-pattern>
-	<url-pattern>/CustomerServlet/edit</url-pattern>
-	<url-pattern>/CustomerServlet/update</url-pattern>
-	<url-pattern>/CustomerServlet/delete</url-pattern>
-	
-	<servlet-name>SellerServlet</servlet-name>
-	<url-pattern>/SellerServlet/dashboard</url-pattern>
-	<url-pattern>/SellerServlet/edit</url-pattern>
-	<url-pattern>/SellerServlet/update</url-pattern>
-	<url-pattern>/SellerServlet/delete</url-pattern>
-	
-	<servlet-name>PaymentServlet</servlet-name>
-	<url-pattern>/PaymentServlet/dashboard</url-pattern>
-	<url-pattern>/PaymentServlet/edit</url-pattern>
-	<url-pattern>/PaymentServlet/update</url-pattern>
-	<url-pattern>/PaymentServlet/delete</url-pattern>
-	
-	<servlet-name>DeliveryServlet</servlet-name>
-	<url-pattern>/DeliveryServlet/dashboard</url-pattern>
-	<url-pattern>/DeliveryServlet/edit</url-pattern>
-	<url-pattern>/DeliveryServlet/update</url-pattern>
-	<url-pattern>/DeliveryServlet/delete</url-pattern>
-	
  </servlet-mapping>
 </web-app>
