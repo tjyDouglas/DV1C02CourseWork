@@ -118,12 +118,12 @@ Link to JIRA component (or project if there is no component for that project). S
 
 ## About Intelligent Service Campaigner Platform
 
-Intelligent Service Campaigner Platform is an open source Content Services platform, written in Java. Data can be stored in both SQL & NoSQL databases.
+Intelligent Service Campaigner Platform is an open source eCommerce Intelligent Services platform, written in Java. Data can be stored in both SQL & NoSQL databases.
 
 The development of the Intelligent Service Campaigner Platform Platform is mostly done by Intelligent Service Campaigner Platform employees with an open development model.
 
 The source code, documentation, roadmap, issue tracker, testing, benchmarks are all public.
 
-Typically, Intelligent Service Campaigner Platform users build different types of information management solutions for [document management](https://www.intelligent-service-campaigner.com/solutions/document-management/), [case management](https://www.intelligent-service-campaigner.com/solutions/case-management/), and [digital asset management](https://www.intelligent-service-campaigner.com/solutions/dam-digital-asset-management/), use cases. It uses schema-flexible metadata & content models that allows content to be repurposed to fulfill future use cases.
+Typically, Intelligent Service Campaigner Platform users build different types of eCommerce solutions for [product management](https://www.intelligent-service-campaigner.com/solutions/product-management/), [customer-management](https://www.intelligent-service-campaigner.com/solutions/customer-management/), [seller-management](https://www.intelligent-service-campaigner.com/solutions/seller-management/),  [paymeny-management](https://www.intelligent-service-campaigner.com/solutions/payment-management/), and  [delivery-management](https://www.intelligent-service-campaigner.com/solutions/delivery-management/), use cases. It uses schema-flexible metadata & content models that allows content to be repurposed to fulfill future use cases.
 
 More information is available at [www.intelligent-service-campaigner.com](https://www.intelligent-service-campaigner.com).
