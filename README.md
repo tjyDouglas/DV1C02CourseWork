@@ -1,6 +1,5 @@
-# DV1C02CourseWork / DV1C02CourseWork
-
-## About / Intelligent Service Campaigner
+# DV1C02CourseWork
+# About / Intelligent Service Campaigner
 
 * What is it, what does it do / Abstract
 The problem statement with the purpose of the proposed web application and why it is needed.
