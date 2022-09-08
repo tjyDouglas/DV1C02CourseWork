@@ -3,9 +3,28 @@
 ## About / Intelligent Service Campaigner
 
 * What is it, what does it do / Abstract
-* Project status: working/prototype
-* Intelligent Service Campaigner Support
+The problem statement with the purpose of the proposed web application and why it is needed.
 
+* Media Circle Advertising
+The problem statement for ecommerce industry is lack of service support to engage and re-engage shoppers with self-service marketing campaign for the existing and new products.
+ 
+My proposed web application namely Intelligent Service Campaigner which is Machine Learning based application to perform product awareness, customer acquisition and remarketing for the ads created by the sellers.
+
+Since existing and new ecommercers may not have enough experience to choose the best campaign tactics, to post the best product photo getting  the most attention, to set optimize value for the customer retention and churn rate, to follow up the right and potential customers, where with least cost effective manners and strategized time saving methods. That made them extra weights of skills, time and money to cover up their investment within their planned schedule.
+
+The final application will definitely help businesses of all sizes to discover, reach and engage relevant customers along with their shopping and entertainment journeys, on and off the online store. Moreover, the shoppers may able to promote the potential product quickly, acquire right segments of new customer, increase their forecasted ROI without any one help and more confirmed reach rate.
+
+* Project status: working/prototype
+In order to develop the solution for the cutoomers then we have to divide five intial components for the web application parts(Models, Web Pages, Classes) shwn below.
+They are 
+(1) Product Management
+(2) Customer Management
+(3) Seller Management
+(4) Payment Management
+(5) Delivery Management
+
+* Intelligent Service Campaigner Support
+* 
 See real examples:
 
 * <https://github.com/intelligent-service-campaigner/intelligent-service-campaigner/blob/master/README.md>
@@ -81,6 +100,12 @@ Direct to MP package if any. Otherwise provide steps to deploy on Intelligent Se
 ## Resources (Documentation and other links)
 
 ## Contributing / Reporting Issues
+* Contributors
+(1) Kayw Kyaw Oo
+(2) TAN JOON YEE DOUGLAS
+(3) CHIA WAI TAT
+(4) CHIA WAI TAT
+(5) LEE HONG LING
 
 Link to JIRA component (or project if there is no component for that project). Samples:
 
