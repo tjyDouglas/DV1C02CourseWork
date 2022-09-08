@@ -27,12 +27,12 @@ They are
 * 
 See real examples:
 
-* <https://github.com/intelligent-service-campaigner/intelligent-service-campaigner/blob/master/README.md>
+* <(https://github.com/tjyDouglas/DV1C02CourseWork/edit/main/README.md)](https://github.com/tjyDouglas/DV1C02CourseWork/edit/main/README.md)>
 
 
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
+Use for instance <https://github.com/DV1C02CourseWork/github-markdown-toc>:
 
 > * [Title / Repository Name](#title--repository-name)
 >   * [About / Intelligent Service Campaigner](#about--Intelligent Service Campaigner)
