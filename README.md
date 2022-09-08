@@ -5,7 +5,7 @@
 * What is it, what does it do / Abstract
 The problem statement with the purpose of the proposed web application and why it is needed.
 
-* Media Circle Advertising
+* Media Circle Advertising *
 The problem statement for ecommerce industry is lack of service support to engage and re-engage shoppers with self-service marketing campaign for the existing and new products.
  
 My proposed web application namely Intelligent Service Campaigner which is Machine Learning based application to perform product awareness, customer acquisition and remarketing for the ads created by the sellers.
@@ -100,7 +100,7 @@ Direct to MP package if any. Otherwise provide steps to deploy on Intelligent Se
 ## Resources (Documentation and other links)
 
 ## Contributing / Reporting Issues
-* Contributors
+* Contributors *
 (1) Kayw Kyaw Oo
 (2) TAN JOON YEE DOUGLAS
 (3) CHIA WAI TAT
